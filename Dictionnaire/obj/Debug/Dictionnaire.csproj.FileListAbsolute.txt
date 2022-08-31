@@ -1,0 +1,12 @@
+C:\Users\raphael\Desktop\motLePlusLong\Dictionnaire\bin\Debug\Dictionnaire.dll
+C:\Users\raphael\Desktop\motLePlusLong\Dictionnaire\bin\Debug\Dictionnaire.pdb
+C:\Users\raphael\Desktop\motLePlusLong\Dictionnaire\obj\Debug\Dictionnaire.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\motLePlusLong\Dictionnaire\obj\Debug\Dictionnaire.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\motLePlusLong\Dictionnaire\obj\Debug\Dictionnaire.dll
+C:\Users\raphael\Desktop\motLePlusLong\Dictionnaire\obj\Debug\Dictionnaire.pdb
+C:\Users\raphael\Desktop\projet final\motLePlusLong\Dictionnaire\bin\Debug\Dictionnaire.dll
+C:\Users\raphael\Desktop\projet final\motLePlusLong\Dictionnaire\bin\Debug\Dictionnaire.pdb
+C:\Users\raphael\Desktop\projet final\motLePlusLong\Dictionnaire\obj\Debug\Dictionnaire.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\projet final\motLePlusLong\Dictionnaire\obj\Debug\Dictionnaire.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\projet final\motLePlusLong\Dictionnaire\obj\Debug\Dictionnaire.dll
+C:\Users\raphael\Desktop\projet final\motLePlusLong\Dictionnaire\obj\Debug\Dictionnaire.pdb

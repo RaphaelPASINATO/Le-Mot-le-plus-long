@@ -1,0 +1,6 @@
+C:\Users\raphael\Desktop\projet final\motLePlusLong\Dictionnaire\bin\Release\Dictionnaire.dll
+C:\Users\raphael\Desktop\projet final\motLePlusLong\Dictionnaire\bin\Release\Dictionnaire.pdb
+C:\Users\raphael\Desktop\projet final\motLePlusLong\Dictionnaire\obj\Release\Dictionnaire.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\projet final\motLePlusLong\Dictionnaire\obj\Release\Dictionnaire.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\projet final\motLePlusLong\Dictionnaire\obj\Release\Dictionnaire.dll
+C:\Users\raphael\Desktop\projet final\motLePlusLong\Dictionnaire\obj\Release\Dictionnaire.pdb
